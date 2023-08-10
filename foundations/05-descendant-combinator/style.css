@@ -1,0 +1,7 @@
+.container .text{
+    font-family: roboto, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: yellow;
+    color: red;
+}
